@@ -25,5 +25,4 @@ Com 18 anos de trajetória nos setores financeiro e de telecomunicações, atuo 
 - [LinkedIn](https://www.linkedin.com/in/cinthia-marcelino-da-silva-66a82372)
 
 ---
-*"Garantindo que a inovação, a qualidade e a automação estejam sempre a serviço dos resultados da empresa."*# cinthia-marcelino
-# cinthia-marcelino
+*"Garantindo que a inovação, a qualidade e a automação estejam sempre a serviço dos resultados da empresa."*
