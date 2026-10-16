@@ -1,0 +1,7 @@
+﻿id_log,data_consumo,id_usuario,produto_dado,qtd_consultas,nome_usuario,id_area,nome_area,respo_area,possui_lider_negocio,nome_lider,fornecedor,valor_unitario,custo_total,responsavel_exibicao
+1,2026-10-01,USR001,TB_SERASA_SCORE,1500,Carlos Silva,AREA_01,Risco e Credito,Joao Barros, Sim,Mariana Barros,Serasa Experian,0.45,675.0,Joao Barros
+2,2026-10-01,USR002,TB_BACEN_SCR,300,Ana Souza,AREA_02,Prevencao a Fraudes,Anita Oliveira,Sim,Pedro Alves,Banco Central,0.15,45.0,Pedro Alves
+3,2026-10-02,USR003,TB_SERASA_SCORE,2500,Fernanda Lima,AREA_01,Risco e Credito,Joao Barros, Sim,Mariana Barros,Serasa Experian,0.45,1125.0,Joao Barros
+4,2026-10-02,USR001,TB_BUREAU_FRAUDE,800,Carlos Silva,AREA_01,Risco e Credito,Joao Barros, Sim,Mariana Barros,ClearSale,0.8,640.0,Joao Barros
+5,2026-10-03,USR004,TB_BACEN_SCR,120,Roberto Dias,AREA_03,Marketing Digital,Jose Luis,Nao,Sem Lideranca Direta,Banco Central,0.15,18.0,Jose Luis
+6,2026-10-03,USR005,TB_RECEITA_FEDERAL,50,Juliana Costa,AREA_99,Área Não Mapeada (Órfão),Nao_Mapeado,Nao_Mapeado,Sem Lideranca,Serpro,0.25,12.5,Nao_Mapeado

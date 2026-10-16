@@ -1,0 +1,4 @@
+id_area,nome_area,respo_area,possui_lider_negocio,nome_lider
+AREA_01,Risco e Credito,Joao Barros, Sim,Mariana Barros
+AREA_02,Prevencao a Fraudes,Anita Oliveira,Sim,Pedro Alves
+AREA_03,Marketing Digital,Jose Luis,Nao,Sem Lideranca Direta

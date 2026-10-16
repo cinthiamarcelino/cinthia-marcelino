@@ -1,0 +1,5 @@
+produto_dado,fornecedor,valor_unitario
+TB_SERASA_SCORE,Serasa Experian,0.45
+TB_BACEN_SCR,Banco Central,0.15
+TB_BUREAU_FRAUDE,ClearSale,0.80
+TB_RECEITA_FEDERAL,Serpro,0.25
