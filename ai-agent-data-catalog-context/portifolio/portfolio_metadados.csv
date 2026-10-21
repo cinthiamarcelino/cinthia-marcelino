@@ -1,0 +1,5 @@
+tabela,fornecedor,descricao_produto,status_contratacao,tipo_atualizacao
+TB_BACEN_SCR,Banco Central,Base de risco de crédito do Sistema Financeiro Nacional,Contratado,API_Online
+TB_BACEN_CCS,Banco Central,Cadastro de Clientes do SFN com vínculos bancários,Nao_Contratado,Batch_Mensal
+TB_SERASA_SCORE,Serasa Experian,Score de crédito para avaliação de risco PF/PJ,Contratado,API_Online
+TB_CLEARSALE_FRAUDE,ClearSale,Motor de decisão antifraude para e-commerce,Contratado,API_Online
