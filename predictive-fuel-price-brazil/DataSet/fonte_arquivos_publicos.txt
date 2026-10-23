@@ -1,0 +1,4 @@
+IBGE, Instituto Brasileiro de Geografia e Estatística. DataSet IPCA. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html?=&t=downloads
+Acesso em: 15 set. 2022.
+
+DADOS, Portal Brasileiro de Dados Abertos. DataSet Serie Histórica de preços de combustíveis por venda. Disponível em: https://dados.gov.br/dataset/serie-historica-de-precos-de-combustiveis-por-revenda Acesso em: 12 ago. 2022.
